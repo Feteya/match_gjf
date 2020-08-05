@@ -8,9 +8,9 @@ match two structures saved as gjf format
 
 例子：两个甲基苯结构的匹配
 
-分子1的结构
+分子1的结构 
 
-%chk=1.chk
+%chk=1.chk 
 \# hf/3-21g geom=connectivity
 
 Title Card Required
