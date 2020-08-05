@@ -11,7 +11,7 @@ match two structures saved as gjf format
 分子1的结构
 
 %chk=1.chk
-/# hf/3-21g geom=connectivity
+\# hf/3-21g geom=connectivity
 
 Title Card Required
 
@@ -52,7 +52,7 @@ Title Card Required
 分子2的结构
 
 %chk=1.chk
-/# hf/3-21g geom=connectivity
+\# hf/3-21g geom=connectivity
 
 Title Card Required
 
